@@ -38,7 +38,7 @@ gulp.task('import', function () {
         sassMap: true,
         sassMapName: 'MyFiles',
         debug: true
-    }, callback);
+    });
 });
 ```
 
